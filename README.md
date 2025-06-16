@@ -7,22 +7,26 @@
   <img src="https://img.shields.io/badge/SideStore%20Fan-%F0%9F%9A%80-ff69b4?style=for-the-badge" />
 </p>
 
-🧠 Compétences
+<div align="center">
+## 🧠 Compétences
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-🛠️ Outils
+<div align="center">
+## 🛠️ Outils
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![SideStore](https://img.shields.io/badge/SideStore-orange?style=for-the-badge&logo=app-store&logoColor=white)
 ![AltStore](https://img.shields.io/badge/AltStore-0088cc?style=for-the-badge&logo=icloud&logoColor=white)
 ![Stikdebeug](https://img.shields.io/badge/Stikdebeug-JIT_RAM-blue?style=for-the-badge)
 
-📱 Plateformes
+<div align="center">
+## 📱 Plateformes
 [![Snapchat](https://img.shields.io/badge/Snapchat-Matthieu80000-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000)](https://www.snapchat.com/add/Matthieu80000)
 
-📦 Projets
+<div align="center">
+## 📦 Projets
 ![Tuto SideStore](https://img.shields.io/badge/Tutoriel-SideStore-blueviolet?style=for-the-badge)
 ![JIT Memory](https://img.shields.io/badge/JIT_Memory-Activé-green?style=for-the-badge)
 ![No Patch](https://img.shields.io/badge/Sans_Patch-%23f44336?style=for-the-badge)
