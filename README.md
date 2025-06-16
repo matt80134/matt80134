@@ -1,4 +1,3 @@
-## Hi there 👋
 # Matthieu80000
 
 <h1 align="center">Salut 👋, moi c’est Matthieu80000</h1>
@@ -12,9 +11,8 @@
 
 ### 📸 Mon style visuel
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/matt80134/matt80134/main/assets/banner.png" alt="Bannière Matthieu80000" />
-</p>
+![image](https://github.com/user-attachments/assets/34e96a36-f4f2-417e-b3a3-838b90d2cbdf)
+
 
 ---
 
