@@ -11,7 +11,8 @@
 
 ### 📸 Mon style visuel
 
-![image](https://github.com/user-attachments/assets/34e96a36-f4f2-417e-b3a3-838b90d2cbdf)
+![image](https://github.com/user-attachments/assets/2122313b-637d-4876-ade9-c69b015ee186)
+
 
 
 ---
