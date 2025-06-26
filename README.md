@@ -2,8 +2,7 @@
 
 # 👋 Bienvenue sur mon GitHub !
 
-Passionné par iOS, le JIT, SideStore et les solutions créatives pour repousser les limites de l’iPhone 📱  
-Je partage ici des tutoriels, des tweaks, et des astuces utiles pour la communauté.
+Site en construction ⚠️
 
 </div>
 
@@ -110,7 +109,7 @@ Je partage ici des tutoriels, des tweaks, et des astuces utiles pour la communau
 ---
 
 <p align="center">
-  🔥 Toujours à la recherche du meilleur setup iOS, même sans jailbreak 🔥
+  Site en construction je vais vous raconter mon histoire 🙂
 </p>
 
 
