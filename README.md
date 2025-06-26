@@ -71,7 +71,7 @@ Site en construction ⚠️
 
 - 🍏 Passionné par le développement **iOS** sans limites  
 - ⚙️ Fan de **SideStore**, **émulateurs**, **JIT**, et tous les petits hacks malins  
-- 🧪 Je bidouille, je découvre, je casse et parfois... je répare 😅  
+- 🫶🏻 Bientôt je raconterai mon histoire !!
 - 🔐 Un jour, j'ai failli tout perdre à cause d'une **clé de récupération Apple**...
 
 ---
