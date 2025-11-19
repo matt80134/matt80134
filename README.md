@@ -1,8 +1,7 @@
 <div align="center">
 
-# 👋 Bienvenue sur mon GitHub !
+# Bienvenue sur mon GitHub !
 
-Site en construction ⚠️
 
 </div>
 
