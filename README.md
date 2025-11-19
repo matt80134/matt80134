@@ -108,9 +108,5 @@ Site en construction ⚠️
 
 ---
 
-<p align="center">
-  Site en construction je vais vous raconter mon histoire 🙂
-</p>
-
 
 ---
